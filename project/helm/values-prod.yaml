@@ -19,7 +19,7 @@ resources:
     cpu: 500m
     memory: 256Mi
   requests:
-    cpu: 350m
+    cpu: 200m
     memory: 128Mi
 
 deploymentConfig:
